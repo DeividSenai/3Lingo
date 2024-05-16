@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672334021851",
+    "project_id": "loginin-cef10",
+    "storage_bucket": "loginin-cef10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672334021851:android:d6caba77b57f8152bbb8fe",
+        "android_client_info": {
+          "package_name": "com.example.loginin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672334021851-ekhs4qd690c9e0krt04p67o8imb8eot2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAde7Klr7aF5AAqnt4JSFIm-N8ZLUh2o2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672334021851-ekhs4qd690c9e0krt04p67o8imb8eot2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
